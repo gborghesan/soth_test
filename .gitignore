@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+.cproject
+.project
+.pydevproject
+bin/*
+build/*
+lib/*
+*~
+CMakeLists.txt.user
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 0d5e01d7e8ae7f332b9e4f795eb0ed98fbc873c4
